@@ -1,0 +1,26 @@
+{
+  "name": "node-bot",
+  "version": "1.0.0",
+  "description": "a simple node js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.7",
+    "asyncio": "^0.0.2",
+    "axios": "^1.19.0",
+    "better-sqlite3": "^13.0.3",
+    "cheerio": "^1.2.0",
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2",
+    "groq-sdk": "^1.5.0",
+    "pandas-js": "^0.2.4",
+    "typescript": "^7.0.2"
+  }
+}
