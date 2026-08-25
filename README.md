@@ -19,7 +19,7 @@ at last im writing this because you might think what stupid repository it is. no
 
 and honestly its my first ever project i  took seriously..tho i completely made it to satisfy my craving to create a discord bot 
 
-you may see a lotta errors or misindentations in my code and its lowkuienly obvious cuz im still learning and trynna find out to make it even better!
+you may see a lotta errors or misindentations in my code and its lowkuienly obvious cuz im still learning and trynna find out how to make it even better!
 
 *atleast im trying to make something real rather than sticking to one playlist or rotting on documentations all day and still not able to write boilerplate emself*
 
