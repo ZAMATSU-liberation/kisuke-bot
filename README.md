@@ -1,6 +1,6 @@
 a discord bot for small fun and moderation 
 
-it can perform basic commands and utilities for now such as moderation some fun commands utilites such as display avatar , banner or set afk 
+it can perform basic commands and utilities for now such as moderation some fun commands, utilites such as display avatar , banner or set afk 
 
 will add more features in upcoming time
 
