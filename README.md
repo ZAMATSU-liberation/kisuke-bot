@@ -17,7 +17,7 @@ and i js pushed it for.. i dont even know
 at last im writing this because you might think what stupid repository it is. no readme no proffesionalism in work but genuinely i dont even want to do it
 
 
-and honestly its my first ever project i seriously took.. tho i completely made it to satisfy my craving to create a discord bot 
+and honestly its my first ever project i  too seriously..tho i completely made it to satisfy my craving to create a discord bot 
 
 you may see a lotta errors or misindentations in my code and its lowkuienly obvious cuz im still learning and trynna find out to make it even better!
 
